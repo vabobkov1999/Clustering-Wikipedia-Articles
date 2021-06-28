@@ -94,10 +94,10 @@ plt.show()
 ```
 
 Результат выполнения программы:
------------------------------------
+============================
 
-k-means график и список:
-=========================
+#### k-means график и список:
+
 
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-4-opc/-/raw/master/g-H4jagE6Ds.jpg)
 
@@ -106,8 +106,7 @@ k-means график и список:
 </p>
 
 
-Метод hierarchy
-================
+#### Метод hierarchy
 
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-4-opc/-/raw/master/nQcsivJLEDM.jpg)
 
