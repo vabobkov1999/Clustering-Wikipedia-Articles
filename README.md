@@ -101,8 +101,9 @@ plt.show()
 
 #### k-means график и список:
 
-
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-4-opc/-/raw/master/g-H4jagE6Ds.jpg)
+<p align="center">
+  <img src="https://bmstu.codes/MorozoFF/lr-4-opc/-/raw/master/g-H4jagE6Ds.jpg" />
+</p>
 
 <p align="center">
   <img src="https://bmstu.codes/MorozoFF/lr-4-opc/-/raw/master/_-fzoGz5yo8.jpg" />
@@ -111,6 +112,9 @@ plt.show()
 
 #### Метод hierarchy:
 
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-4-opc/-/raw/master/nQcsivJLEDM.jpg)
+<p align="center">
+  <img src="https://bmstu.codes/MorozoFF/lr-4-opc/-/raw/master/nQcsivJLEDM.jpg" />
+</p>
+
 
 Так же напоминаю для тех кому интересно выполнить задание самому или протестировать данную программу, то прошу перейти [сюда](https://drive.google.com/drive/folders/1b_molbj8z6JhHV6r178AeI1XpQezehsm?usp=sharing "Практикум по машинному обучению")
